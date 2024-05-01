@@ -13,4 +13,3 @@ if uploaded_file is not None:
 st.markdown('### アクセスログ（先頭5件）')
 st.write(df.head(5))
 
-st.map
